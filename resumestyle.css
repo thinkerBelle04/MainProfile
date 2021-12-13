@@ -104,7 +104,7 @@ p {
   padding-bottom: 200px;
 }
 
-a[href="Hire"] {
+a[href="https://www.google.com/"] {
   border-style: solid;
   border-width: thin;
   background-color: #BC8F8F;
@@ -116,6 +116,6 @@ a[href="Hire"] {
   text-decoration: none;
 }
 
-a[href="Hire"]:hover {
+a[href="https://www.google.com/"]:hover {
   color: black;
 }
