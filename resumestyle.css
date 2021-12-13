@@ -11,7 +11,7 @@ h1:nth-child(1) {
 }
 
 body {
-  background-image: url("images/peachwallpaper.png");
+  background-image: url("peachwallpaper.png");
   background-position: top;
   background-size: 2000px 480px;
   background-repeat: no-repeat;
